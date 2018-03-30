@@ -43,11 +43,7 @@ li {
 }
 
 .menu.item {
-	padding-left: 1.5em;
-}
-
-.menu .icon{
-
+	padding-left: 15%;
 }
 
 .menu .text {
@@ -84,6 +80,10 @@ li {
 	min-height: 100%;
 	margin: 0 auto;
 	padding: 0 2em;
+}
+
+#copyright {
+	font-size: 0.75em;
 }
 
 #footer {
